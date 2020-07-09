@@ -13,7 +13,7 @@ header li {
 }
 a:link , a:visited {
      text-decoration: none;
-     background-color: gold;
+     background-color: skyblue;
      font-size: 110%;
      border:1px solid black;
      color:black;
@@ -24,9 +24,10 @@ a:link , a:visited {
      margin: 5px;
 }
 a:active , a:hover{
-     font-size: 130%;
+     font-size: 120%;
      font-family: cursive;
      color:red;
+     background-color: dark gold;
 
 
 
