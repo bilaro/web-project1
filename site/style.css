@@ -1,0 +1,35 @@
+div {
+  background-color: white;
+  background-size: 10px;
+
+}
+body {
+
+    background-color: grey;
+
+}
+header li {
+  list-style: none;
+}
+a:link , a:visited {
+     text-decoration: none;
+     background-color: gold;
+     font-size: 110%;
+     border:1px solid black;
+     color:black;
+     display: block;
+     width:150px;
+     text-align: center;
+     font-family: fantasy;
+     margin: 5px;
+}
+a:active , a:hover{
+     font-size: 130%;
+     font-family: cursive;
+     color:red;
+
+
+
+
+
+}
