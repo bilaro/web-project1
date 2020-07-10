@@ -1,36 +1,51 @@
-div {
-  background-color: white;
-  background-size: 10px;
 
+header {
+  background-color: orange;
+  height: 260px;
+
+
+}
+#real{
+  margin-left: 20px;
 }
 body {
 
-    background-color: grey;
+    background-color: #B0B0B0;
+    margin: 0;
+    padding: 0;
 
 }
 header li {
   list-style: none;
 }
+
+
+
 a:link , a:visited {
      text-decoration: none;
      background-color: skyblue;
-     font-size: 110%;
+     font-size: 150%;
      border:1px solid black;
-     color:black;
+     color: solid black;
      display: block;
-     width:150px;
+     width:230px;
      text-align: center;
      font-family: fantasy;
-     margin: 5px;
+     margin: px;
+     float:left;
+     margin-top: 30px;
+
+
 }
 a:active , a:hover{
-     font-size: 120%;
+     font-size: 151%;
      font-family: cursive;
      color:red;
-     background-color: dark gold;
+     background-color: gold;
 
 
+}
 
-
-
+#big{
+  margin-left: 130px;
 }
